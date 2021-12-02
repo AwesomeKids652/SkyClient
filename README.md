@@ -1,8 +1,7 @@
 
 # Altura Client
 
-The amazing client for ya.
-
+The modern-day PVP client for everyone
 
 ## Acknowledgements
 
